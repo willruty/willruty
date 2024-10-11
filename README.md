@@ -1,6 +1,6 @@
 
-### Olá! Meu nome é William Rutyna Macedo✌️
-
+## Olá! Meu nome é William Rutyna Macedo✌️
+### Um pouco sobre mim 😀
 - 🏃 Hobbies: Programação, Videogames e Esportes
 - 🎓 Atualmente no 2° semestre de Engenharia de Software
 - 📖 Estudando: JavaScript
@@ -25,11 +25,11 @@
 ##
 ### Stats 🚀
 
-![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=willruty&show_icons=true&theme=dark)
+![William GitHub stats](https://github-readme-stats.vercel.app/api?username=willruty&show_icons=true&theme=dark)
           
 
 ##
-### Contatos
+### Contatos 📡
 
 <div>
   <a href="https://wa.me/5541984418576?text=Ol%C3%A1+William!+Visitei+seu+perfil+no+GitHub+e+fiquei+interessado(a),+podemos+conversar?" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
