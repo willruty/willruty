@@ -21,11 +21,11 @@
 </div>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=will&layout=compact)    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willruty&layout=compact)    
 ##
 ### Stats 🚀
 
-![William GitHub stats](https://github-readme-stats.vercel.app/api?username=will&show_icons=true&theme=dark)
+![William GitHub stats](https://github-readme-stats.vercel.app/api?username=willruty&show_icons=true&theme=dark)
           
 
 ##
