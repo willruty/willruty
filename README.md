@@ -1,5 +1,5 @@
 
-## Olá! Meu nome é William Rutyna Macedo✌️
+## Olá! Meu nome é William R. Macedo✌️
 ### Um pouco sobre mim 😀
 - 🏃 Hobbies: Programação, Videogames e Esportes
 - 🎓 Atualmente no 2° semestre de Engenharia de Software
