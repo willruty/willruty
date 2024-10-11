@@ -20,12 +20,15 @@
 <br><br>
 </div>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willruty&layout=compact)    
 ##
 ### Stats 🚀
 
-![William GitHub stats](https://github-readme-stats.vercel.app/api?username=willruty&show_icons=true&theme=dark)
+<div id="stats">
+  
+  ![William GitHub stats](https://github-readme-stats.vercel.app/api?username=willruty&show_icons=true&theme=transparent&text_color=fff&title_color=fff&hide_border=true)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willruty&layout=donut&theme=transparent&text_color=fff&title_color=fff&hide_border=true)](https://github.com/willruty/github-readme-stats)    
+
+</div>
           
 
 ##
@@ -36,5 +39,4 @@
   <a href ="mailto:williamrutynamacedo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/williamrutyna" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
 
