@@ -29,7 +29,7 @@
   
   ![William GitHub stats](https://github-readme-stats.vercel.app/api?username=willruty&show_icons=true&theme=transparent&text_color=fff&title_color=fff&hide_border=true)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willruty&layout=donut&theme=transparent&text_color=fff&title_color=fff&hide_border=true)](https://github.com/willruty/github-readme-stats)    
-  <img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=flat-square&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D29934%26project%3D%26in=0">
+  <img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=flat-square&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D29934%26project%3D%26in=0" style="border-radius: 30px; margin-left: 30px;">
 
 </div>
           
