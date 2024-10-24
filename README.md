@@ -4,12 +4,11 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-## Um pouco sobre mim 😀
+### Um pouco sobre mim 😀
 - 🏃 Hobbies: Programação, Videogames e Esportes
 - 🎓 Atualmente no 2° semestre de Engenharia de Software
 - 📖 Estudando: JavaScript
 
-##
 <br>
 ### Tecnologias que uso no meu dia 🔧
 
