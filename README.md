@@ -9,7 +9,7 @@
 - 🎓 Atualmente no 2° semestre de Engenharia de Software
 - 📖 Estudando: JavaScript
 
-
+<br>
 ### Tecnologias que uso no meu dia 🔧
 
 <div style="display: inline_block"><br>
