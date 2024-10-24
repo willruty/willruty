@@ -9,10 +9,9 @@
 - 🎓 Atualmente no 2° semestre de Engenharia de Software
 - 📖 Estudando: JavaScript
 
-<br>
+### Tecnologias que uso no meu dia 🔧
 
 <div style="display: inline_block"><br>
-### Tecnologias que uso no meu dia 🔧
     <img align="center" alt="will-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="will-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="will-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg">
