@@ -6,7 +6,7 @@
 
 ### Um pouco sobre mim 😀
 - 🏃 Hobbies: Programação, Videogames e Esportes
-- 🎓 Atualmente no 2° semestre de Engenharia de Software
+- 🎓 Atualmente no 3° semestre de Engenharia de Software
 - 📖 Estudando: JavaScript
 
 ### Tecnologias que uso no meu dia 🔧
