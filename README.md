@@ -1,45 +1,37 @@
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=22ff05&size=25&center=false&vCenter=true&width=1000&lines=Olá!+Sou William, desenvolvedor back-end em formação.;Seja+bem-vindo!+:%29" alt="Typing SVG">
+</a>
 
+---
 
-## Olá! Meu nome é William R. Macedo✌️
+#### Sobre mim
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+- 💼 Desenvolvendo na área de Back-End desde março
+- 🎓 Cursando o 4º semestre de Engenharia de Software
+- ⚙️ Atualmente focado em arquitetura de sistemas, APIs RESTful, boas práticas de código e versionamento
+- 📚 Estudando e aplicando: Golang, PostgreSQL, Java e arquitetura limpa
 
-### Um pouco sobre mim 😀
-- 🏃 Hobbies: Programação, Videogames e Esportes
-- 🎓 Atualmente no 3° semestre de Engenharia de Software
-- 📖 Estudando: Golang
+#### Stack Principal
 
-### Tecnologias do meu dia a dia 🔧
+[![My Skills](https://skillicons.dev/icons?i=go,java,postgres,postman,git,bitbucket,github,vscode)](https://skillicons.dev)
 
-<div style="display: inline_block"><br>
-    <img align="center" alt="will-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg">
-    <img align="center" alt="will-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
-    <img align="center" alt="will-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">
-    <img align="center" alt="will-Jv" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
-    <img align="center" alt="will-Jv" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" />
-    <img align="center" alt="will-Jv" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+---
 
-<br><br>
-</div>
-
-##
-### Stats 🚀
+### 📊 Estatísticas
 
 <div id="stats">
   
-  ![William GitHub stats](https://github-readme-stats.vercel.app/api?username=willruty&show_icons=true&theme=transparent&text_color=fff&title_color=fff&hide_border=true)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willruty&layout=donut&theme=transparent&text_color=fff&title_color=fff&hide_border=true)](https://github.com/willruty/github-readme-stats)    
+  ![William GitHub stats](https://github-readme-stats.vercel.app/api?username=willruty&show_icons=true&theme=radical&hide_border=true)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willruty&layout=compact&theme=radical&hide_border=true)    
   [![CodeTime Badge](https://img.shields.io/endpoint?style=flat&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D29934%26project%3D%26in=0)](https://codetime.dev)
 
 </div>
-          
 
-##
-### Contatos 📡
+---
+
+### Contatos
 
 <div>
-  <a href =" https://mail.google.com/mail/?view=cm&fs=1&to=willruty@gmail.com&su=Sugestão%20de%20melhorias%20para%20o%20Fundz&body=Escreva%20sua%20mensagem%20aqui"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/williamrutyna" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:willruty@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/williamrutyna" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
-
-
