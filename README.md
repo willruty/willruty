@@ -13,7 +13,7 @@
 
 #### Stack Principal
 
-[![My Skills](https://skillicons.dev/icons?i=go,java,postgres,postman,git,bitbucket,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,java,html,css,js,react,postgres,postman,git,bitbucket,github,vscode)](https://skillicons.dev)
 
 ---
 
