@@ -34,7 +34,6 @@ My projects range from websites in HTML, CSS, JavaScript, and Bootstrap to Java 
 
   ![William GitHub stats](https://github-readme-stats.vercel.app/api?username=willruty&show_icons=true&theme=radical&hide_border=true)  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willruty&layout=compact&theme=radical&hide_border=true)    
-  [![CodeTime Badge](https://img.shields.io/endpoint?style=flat&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D29934%26project%3D%26in=0)](https://codetime.dev)
 
 </div>
 
