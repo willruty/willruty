@@ -14,8 +14,6 @@ Sobre mim
 
 Meus projetos abrangem desde sites em HTML, CSS, JavaScript e Bootstrap, até códigos em Java e APIs em Golang focadas em banco de dados. Porém, o Fundz é meu projeto mais completo e complexo até agora — uma aplicação financeira robusta, com autenticação segura, dashboards interativos e análise de dados. Você pode conhecer o site [aqui](link do site) e o código fonte no [GitHub](link do repositório). Vou fixar o projeto no meu perfil para facilitar o acesso.
 
----
-
 ## English
 
 About me
@@ -26,13 +24,9 @@ About me
 
 My projects range from websites in HTML, CSS, JavaScript, and Bootstrap to Java code and Golang APIs focused on databases. However, Fundz is my most complete and complex project so far — a robust financial app with secure authentication, interactive dashboards, and data analysis. You can check the site [here](link do site) and the source code on [GitHub](link do repositório). I will pin this repo on my profile to make it easy to find.
 
----
-
 ## Tecnologias / Technologies
 
 [![My Skills](https://skillicons.dev/icons?i=go,html,css,js,react,postgres,postman,git,bitbucket,github,vscode)](https://skillicons.dev)
-
----
 
 ### Estatísticas / Stats
 
