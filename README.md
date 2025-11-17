@@ -26,7 +26,7 @@ My projects range from websites in HTML, CSS, JavaScript, and Bootstrap to Java 
 
 ## Tecnologias / Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=go,java,js,react,typescript,html,css,bootstrap,postgres,mysql,sqlite,gcp,aws,docker,linux,git,bitbucket,github,postman,vscode,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,java,js,react,typescript,html,css,bootstrap,postgres,mysql,sqlite,gcp,aws,docker,linux,git,bitbucket,github,postman,vscode,notion,discord&perline=11)](https://skillicons.dev)
 
 ### Estatísticas / Stats
 
