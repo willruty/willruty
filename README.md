@@ -6,27 +6,39 @@
 
 ## Português
 
-Sobre mim
+### Sobre mim
 
-- 💼 Estudante de Engenharia de Software no 4º semestre  
-- ⚙️ Desenvolvedor backend focado em Golang e PostgreSQL  
-- 📚 Apaixonado por arquitetura limpa, APIs RESTful e código organizado  
+- 💼 Estudante de Engenharia de Software no 5º semestre  
+- ⚙️ Foco em **automação de processos, integrações de sistemas e IA aplicada**  
+- 🤖 Experiência prática com **n8n, APIs REST e agentes de IA integrados ao WhatsApp**  
+- 🗄️ Trabalho diariamente com **bancos relacionais (PostgreSQL / Supabase)**  
+- 🐧 Também utilizo **Docker, Linux/WSL e VPS (Hostinger)**  
 
-Meus projetos abrangem desde sites em HTML, CSS, JavaScript e Bootstrap, até códigos em Java e APIs em Golang focadas em banco de dados. Porém, o Fundz é meu projeto mais completo e complexo até agora — uma aplicação financeira robusta, com autenticação segura, dashboards interativos e análise de dados. Você pode conhecer o site [aqui](link do site) e o código fonte no [GitHub](link do repositório). Vou fixar o projeto no meu perfil para facilitar o acesso.
+Atualmente meu trabalho envolve **construir fluxos de automação, orquestrar APIs, integrar sistemas e estruturar dados** para melhorar eficiência operacional e reduzir tarefas manuais. Também desenvolvo interfaces simples para visualização de dados e tenho base sólida em back-end para manutenção e integração de serviços.
+
+---
 
 ## English
 
-About me
+### About me
 
-- 💼 Software Engineering student in the 4th semester  
-- ⚙️ Backend developer focused on Golang and PostgreSQL  
-- 📚 Passionate about clean architecture, RESTful APIs, and well-organized code  
+- 💼 Software Engineering student (5th semester)  
+- ⚙️ Focused on **process automation, systems integration and applied AI**  
+- 🤖 Hands-on experience with **n8n, REST APIs and AI agents integrated with WhatsApp**  
+- 🗄️ Daily work with **relational databases (PostgreSQL / Supabase)**  
+- 🐧 Also experienced with **Docker, Linux/WSL and VPS (Hostinger)**  
 
-My projects range from websites in HTML, CSS, JavaScript, and Bootstrap to Java code and Golang APIs focused on databases. However, Fundz is my most complete and complex project so far — a robust financial app with secure authentication, interactive dashboards, and data analysis. You can check the site [here](link do site) and the source code on [GitHub](link do repositório). I will pin this repo on my profile to make it easy to find.
+I currently work building **automation workflows, orchestrating APIs, integrating systems and structuring data** to improve operational efficiency and reduce manual work. I also develop simple front-end interfaces for data visualization and have a solid back-end foundation for maintaining and integrating services.
+
+---
 
 ## Tecnologias / Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=go,java,js,react,typescript,html,css,bootstrap,postgres,mysql,sqlite,gcp,aws,docker,linux,git,bitbucket,github,postman,vscode,notion,discord&perline=11)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,java,js,react,typescript,html,css,bootstrap,postgres,mysql,sqlite,mongodb,redis,gcp,aws,docker,linux,git,bitbucket,github,postman,vscode,notion,discord&perline=11)](https://skillicons.dev)
+
+> Também trabalho com: Supabase · n8n · Webhooks · REST APIs · AI Agents · Data Integration · Workflow Automation
+
+---
 
 ### Estatísticas / Stats
 
