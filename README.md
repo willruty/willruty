@@ -34,7 +34,7 @@ I currently work building **automation workflows, orchestrating APIs, integratin
 
 ## Tecnologias / Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=go,java,js,react,typescript,html,css,bootstrap,postgres,mysql,sqlite,mongodb,redis,gcp,aws,docker,linux,git,bitbucket,github,postman,vscode,notion,discord&perline=11)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,java,js,react,typescript,html,css,bootstrap,postgres,mysql,sqlite,mongodb,redis,gcp,aws,docker,linux,git,bitbucket,github,postman,vscode,notion,discord&perline=12)](https://skillicons.dev)
 
 > Também trabalho com: Supabase · n8n · Webhooks · REST APIs · AI Agents · Data Integration · Workflow Automation
 
