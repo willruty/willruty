@@ -40,17 +40,6 @@ I currently work building **automation workflows, orchestrating APIs, integratin
 
 ---
 
-### Estatísticas / Stats
-
-<div id="stats">
-
-  ![William GitHub stats](https://github-readme-stats.vercel.app/api?username=willruty&show_icons=true&theme=radical&hide_border=true)  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willruty&layout=compact&theme=radical&hide_border=true)    
-
-</div>
-
----
-
 ### Contatos / Contacts
 
 <div>
