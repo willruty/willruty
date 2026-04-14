@@ -34,7 +34,7 @@ I currently build automations and integrations used in real-world operations, co
 
 ## Tecnologias / Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=go,java,js,react,typescript,html,css,postgres,mysql,sqlite,mongodb,aws,docker,linux,git,github,postman,vscode&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,java,js,react,typescript,expo,html,css,postgres,mysql,sqlite,mongodb,aws,docker,linux,git,github,postman,vscode&perline=9)](https://skillicons.dev)
 
 > Também trabalho com: Supabase · n8n · Webhooks · REST APIs · AI Agents · Data Integration · Workflow Automation
 
